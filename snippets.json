@@ -1,0 +1,34 @@
+{
+  "React Typescript FC with Props": {
+    "prefix": "fcwp",
+		"body": [
+			"import React from 'react';",
+      "",
+      "interface IProps {}",
+      "",
+      "const ${TM_FILENAME_BASE} = ({}: IProps) => {",
+      " return (",
+      "   <></>",
+      " );",
+      "};",
+      "",
+      "export default ${TM_FILENAME_BASE};"
+		],
+		"description": "Create React FC with Props."
+  },
+  "React FC without Props": {
+    "prefix": "fcwop",
+    "body": [
+      "import React from 'react';",
+      "",
+      "const ${TM_FILENAME_BASE} = () => {",
+      " return (",
+      "   <></>",
+      " );",
+      "};",
+      "",
+      "export default ${TM_FILENAME_BASE};"
+    ],
+    "description": "Create React FC without Props."
+  }
+}
