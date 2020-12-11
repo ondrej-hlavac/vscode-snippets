@@ -1,0 +1,12 @@
+https://code.visualstudio.com/docs/editor/userdefinedsnippets
+
+1. Cmd+Shift+P
+2. Configure User Snippets
+3. New Global Snippets File
+4. <zadejte název>
+5. vložte kód z přiloženého souboru
+6. uložte file *.snippets
+
+zkratky:
+fcwp - Functional Component With Props
+fcwop - Functional Component WithOut Props
